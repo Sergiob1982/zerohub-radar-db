@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "date_utc": "2026-08-18T11:04:31Z",
+  "file": "radares_es.bin",
+  "size": 43630,
+  "sha256": "6dba2d69c61f665d07af3b3a42573a7514797dc89d554dc6940987e1d8dca064",
+  "url": "https://raw.githubusercontent.com/Sergiob1982/zerohub-radar-db/main/radares_es.bin",
+  "sig_alg": "RSA-3072-SHA256",
+  "sig": "br0Sdm7V1NHmnUQOtdTGk14+NR4MvmWst2y6ruUu4IG1yWbvCY35tCe8iIEISvufYTU8CQ6+PhxZTfwLh27QgF2Zd3CtZa0Hw2jbu+A4RisP/KPpQeMxj+a5rn+wNpQGFd91d3W84DKL4WrdadPS1iYb8DCUAR2b+98ift8T1jP6UWPK0+xPYlMJhwQqudLd3hl+Kk8qkXr+6pmWxZSWhu5GWGM9k1HBoByxV/q7L28itu/OM+/PaU9R8ePkedCku8Mx/Ft2Lfa9DZbKT0kHQ+9E5l1ZOpSYkf14vPwaGYIFLZbcETZEw3Wd44ksXh/v6V5w8xKo5rOjcsz+33jO8hmRyyx5pHaLOiXbW8IPPfDdqm1iLvX0KCHgG1gmT37oWD324WAiNXNq+Y1kwtEWM7PeEG6GkvK2UFgziJFeHNhtXz/Mp7zUJA8oyW/feuEYXlHffNNtWp47YLyyBGn0kyfkNjSDFeg/zfjwkKrvoYqnu4oscLYJ2QNxCKXMHXVX"
+}
