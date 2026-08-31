@@ -1,10 +1,10 @@
 {
-  "version": 3,
-  "date_utc": "2026-08-24T02:00:23Z",
+  "version": 4,
+  "date_utc": "2026-08-31T02:00:44Z",
   "file": "radares_es.bin",
-  "size": 43678,
-  "sha256": "35eddee90b434d4a0d9b72bbeac6e9faae1f1f0f9a0907b5019acc3d31b8714c",
+  "size": 43806,
+  "sha256": "9ffee81cc01dd49b645217308394eee582d7f2960772cd9fa0e5d8ff943e4e20",
   "url": "https://raw.githubusercontent.com/Sergiob1982/zerohub-radar-db/main/radares_es.bin",
   "sig_alg": "RSA-3072-SHA256",
-  "sig": "rRTLp33CVkkpwJmHXkK7wtDKVtX+B7JvBz2Yk2OD6hEYeF3cXKx/EoY7KcLvGbd6cCMNh6V68jB6RmTqWZWtiFHjibgYpzy9LsAf4fuT4HUfd7655b9tl0Zec9vQWTJ0ghLiEzvkyp4ynJ5+f5216xwJpL/Wm5MMU8oV0Vekk3XKC2vpU6Are2EiW/nPtLaxDM6CwkccwNR/7YRwGN051LQCYWdh8GHltYOzDd1qwiT5YZ9p7f4iRgZOeGwd6exlU6KYh2qFtiODGpaaWiA+uoUj2SnUkJ4jxdyZ+yHSFqNpwr7PDsiFeM6hSfuLAePn7A5OmANBsg4Mi3CNtaQVOeJefnJjKvnHd6cvhsmO9n5gN2HqlQFZpi1GOibdSPSrD4eEtV/YgqdlQWI2Sq187D9+biJsAtd0CE6MGvnIFzqhm1AjGn3VSKgagn0CBiZ3VD3moM1BnnM1sbecUJyB8uCpLW4yjm3Pcu+usJOEWDk+R1rqly1FkfHU5hc10kau"
+  "sig": "qT1oxJlEZvBQpIf3ZGW5a1gJsSnEYMEvYnOppGpvkYHvYQTanDif+dEbvlta819Z/cIbWskKAaMiccYHGhUjVwXOtVn18yeryjTpX2r61UQSBg6Fia/Okd2JltxPcMREoLyjisNsFHrQ9CPwqEEB+0dVJnkfdEiP9qmOD1uNyQxDBSdOIONkCyMcdzjT8rRmTzqSxZFcri9GkLtjxM/77dyUO+q14zAOSDe5wvCo+PFYLcR/12r1qo0AS+o9N1d2qdHlxM/3oFMc/LOjuFBANdyrZxokpKahryDkOfPrYWoR250ntzY2HFxAPxSQtEzs/2gYfZDxakENw9q67sT6bRi9dwhAmFTATtgBRM/cOWD0uFGVTsTCEzB7jrfMQDdH2HpnZ8Iker+wctmjdjtaMv2HdANAeim+BhPLVt3kQajW0QiW3LIzZm9uKb7VCNCaExBvPLfZy8ZZWwY8D3gdLnoK35iLOjN2z+ErSHLnRNRIve2ooUvVc0UPCxcmJz3c"
 }
