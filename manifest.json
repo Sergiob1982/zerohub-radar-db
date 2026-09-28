@@ -1,10 +1,10 @@
 {
-  "version": 7,
-  "date_utc": "2026-09-21T02:00:29Z",
+  "version": 8,
+  "date_utc": "2026-09-28T02:04:10Z",
   "file": "radares_es.bin",
-  "size": 43886,
-  "sha256": "fef0cb5cd0afbc721d90eaaec6b1ea7dd8e7a2dce114875b51c62e8de7412f91",
+  "size": 43390,
+  "sha256": "afc4036ee0dcfa75a51fe428562f72a270f5ac8732287eeffd90ca8092d358c2",
   "url": "https://raw.githubusercontent.com/Sergiob1982/zerohub-radar-db/main/radares_es.bin",
   "sig_alg": "RSA-3072-SHA256",
-  "sig": "An6kJSrtRIggBj89Dj1kcqu234/QbffwJq77WatMUuEjiOQ+JKl7OYj4rrI+osP9z0J17NaWu8HB5egWShAna96yjm2qyinG1AxV1SNDgG083NbNBaJ72YRP5AGCXw74lunZ8aS8+7v4YqpGW21nZXJ0olzoHgDA7VvHIhnetezcgssoP8Bf+3CyqbjXfbICfrebPqP203c5f5oD5XR6agq1PQh7SlGeRGC0+uCX9rwS4+CyeHylfcUgIqeGMk3RIIBM7GuIedhn9bNhkD7di+XNX+bei5PpExs7SKgCqQfuutEwhvi/fnTzYpl+aLxMlDxl6KRdhx6AZQELgyzIVIa7gabDyuLznoUSRKs3BPQVqKeHa+IkaywbJRfGh4K7YTkgAjPuvsdc1IQbji/+rdDI8Ycm9rIZoOf9VqSQ6NXRMydZT2ShRsGLKARTKCc7x5HziM/vtsdzVtPF8x0rFAcE5ui5QMtRp5L10YDxaMq0Kz9qRQR52hdNNBRoaPOb"
+  "sig": "XK2Zz353pF4zNFsjen9/VtDbXyXK1N2ZJc/q5Cf2NXO/0nRMDtykfwJWqqBQQwUdtqAMUJsbHPDDyZ5fssf8N1AQc/UeVcBKHR+Ca525b1u9T5aR3yurwqXk9UHOIUlIE86SSp8d4esuaYXWlNVKiWIIp4VHsG1dmsXNQ2uIKMxKStQiZFX5NUblLN+/R/LymlMuRCfMfnccm21HPKadK0pfwzXpl3HKOktUxf//zSi6314GSKG4Vv0hjxvCCz3jIYg6SMba36zuj8ngc8GfukNXvRPZ674T16CmqdgM6183o3XAr2zqM56FtYGqjFRnyuHS1yJm5GqjiX8CR2p7Cy539u40zHGc/6wV3CbfjZJrQMg6H9rOUqPEU6Vdsbvy08aXHUeEWTnK2PQpfn1CrRUScSKSjdDpgvgZ/+5ppHP06CSjbN1F3fz84roS6zi7+9I2u33xB8idrysJlqp5abVWRJQqIj/EpADD9A0rUf6+5sO7yVnLlmkNkb78emch"
 }
